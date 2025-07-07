@@ -1,0 +1,14 @@
+/* Tailwind directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Make full‑height flex container for nice centering */
+html, body, #root {
+  height: 100%;
+}
+
+/* Light background gradient */
+body {
+  @apply bg-gradient-to-br from-teal-50 to-emerald-100 font-sans;
+}
