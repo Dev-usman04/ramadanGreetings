@@ -1,5 +1,3 @@
-// src/utils/messages.js
-
 const messages = {
   en: {
     "1": 'May your Ramadan be filled with hope, kindness, and generosity. 🌙💕',

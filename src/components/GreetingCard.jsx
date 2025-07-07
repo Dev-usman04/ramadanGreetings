@@ -47,7 +47,7 @@ const GreetingCard = ({ language }) => {
             className="speaker-icon"
             onClick={speakGreeting}
           />
-          <p className="name-line">We wish <strong>{name}</strong> a blessed Ramadan 💖🌙</p>
+          <p className="name-line">We wish <strong>{name}</strong> a blissful Ramadan 💖🌙</p>
         </div>
       )}
     </div>
